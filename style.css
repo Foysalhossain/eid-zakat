@@ -146,6 +146,13 @@
 .donate-area {
     display: flex;
     width: 80%;
+    margin: auto;
 }
 
-.donate-box {}
+.donate-area img {
+    width: 100%;
+}
+
+.donate-box {
+    margin: 0 10px;
+}
