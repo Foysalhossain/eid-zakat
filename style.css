@@ -129,6 +129,10 @@
     width: 80%;
 }
 
+.donate-section {
+    margin: 150px 0;
+}
+
 .donate-head {
     width: 50%;
     margin: auto;
@@ -155,4 +159,44 @@
 
 .donate-box {
     margin: 0 10px;
+    border: 1px solid #D9D9D9;
+    border-radius: 10px;
+}
+
+.donate-textarea {
+    padding: 25px;
+}
+
+.donate-textarea p {
+    color: #707070;
+    padding: 10px 0;
+}
+
+.btn {
+    margin: 20px auto;
+}
+
+.btn a {
+    font-size: 20px;
+    color: rgb(255, 0, 0);
+    font-weight: 600;
+}
+
+footer {
+    margin: auto;
+    text-align: center;
+    background-color: #0B0D17;
+    padding: 50px;
+}
+
+footer h2 {
+    color: #EF233C;
+    font-size: 34px;
+    font-family: 'Dancing Script';
+}
+
+footer p {
+    color: #D9DBE1;
+    font-size: 14px;
+    margin: 20px 0 0 0;
 }
