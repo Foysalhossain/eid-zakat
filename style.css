@@ -1,0 +1,151 @@
+* {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.main-section {
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.929), rgba(0, 0, 0, 0.181)), url(image/Rectangle\ 1.png);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.head-content {
+    padding-top: 180px;
+    padding-left: 180px;
+    width: 480px;
+}
+
+.head-content h1 {
+    color: #fff;
+    font-size: 55px;
+    margin: 30px auto;
+}
+
+.head-content p {
+    color: #fff;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.link-btn {
+    margin-top: 50px;
+}
+
+.link-btn a {
+    width: 150px;
+    text-decoration: none;
+    padding: 15px 30px;
+    background-color: #EF233C;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.media-section {
+    width: 70%;
+    margin: 100px auto 0;
+}
+
+.media-row {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.media-content {
+    padding: 15px 30px;
+}
+
+.media-content h2 {
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+#box1 {
+    padding-top: 100px;
+    padding-right: 70px;
+}
+
+#box-image {
+    padding-left: 30px;
+}
+
+.media-content2 {
+    padding: 15px 30px;
+}
+
+.media-content2 h2 {
+    font-size: 45px;
+}
+
+#box2 {
+    padding-top: 100px;
+    padding-left: 80px;
+}
+
+
+.description-head {
+    width: 50%;
+    margin: 10px auto 10px;
+    text-align: center;
+}
+
+.description-head h2 {
+    font-size: 45px;
+    padding: 0 105px;
+}
+
+.description-head p {
+    padding: 40px 80px 50px;
+}
+
+.description-area {
+    display: flex;
+    width: 60%;
+    margin: auto;
+}
+
+.description-box {
+    display: flex;
+    background-color: #FEF4F5;
+    margin: 10px;
+    padding: 30px 20px;
+    border-radius: 8px;
+}
+
+.ds-text {
+    margin-left: 30px;
+
+}
+
+.ds-text p {
+    padding-top: 10px;
+    color: #707070;
+}
+
+.image-section {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 80px auto;
+    width: 80%;
+}
+
+.donate-head {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+.donate-head h2 {
+    font-size: 45px;
+}
+
+.donate-head p {
+    padding: 40px 80px 50px;
+}
+
+.donate-area {
+    display: flex;
+    width: 80%;
+}
+
+.donate-box {}
